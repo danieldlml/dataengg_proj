@@ -1,0 +1,9 @@
+{
+	"name": "olist-ecom-data-factory-dk",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "35e02162-7567-49c9-aa16-a4852bf5c817",
+		"tenantId": "6d0e6351-3fd9-477a-9b41-e2bdfca4ee21"
+	}
+}
