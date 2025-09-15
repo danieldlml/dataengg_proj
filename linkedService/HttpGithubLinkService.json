@@ -1,0 +1,12 @@
+{
+	"name": "HttpGithubLinkService",
+	"properties": {
+		"annotations": [],
+		"type": "HttpServer",
+		"typeProperties": {
+			"url": "https://github.com/danieldlml/dataengg_proj",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Anonymous"
+		}
+	}
+}
